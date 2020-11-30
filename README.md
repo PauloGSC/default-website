@@ -9,6 +9,11 @@ Simple repo with the sole goal of providing a default folders and files structur
 - Good/placeholder filenames and/or preferrable ones (e.g. index.html)
 - For some source files (e.g. HTML ones), the content comprises some best practices concerning the language and can be used as a start point
 
+# Credits
+
+- `media/videos/video.mp4`: video by Magda Ehlers from Pexels
+
+
 # Suggestions and contributions
 
-Feel free to make suggestions, contributions or else via issues. 
+Feel free to make suggestions, contributions or else via issues.
